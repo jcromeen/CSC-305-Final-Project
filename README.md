@@ -22,7 +22,7 @@ This project demonstrates the use of object-oriented programming principles and 
    - View generated code for each square in the "Code" tab.
    - Java files appear in a `src` directory structure.
 5. **File Options**:
-   - Save or load diagrams and their corresponding code.
+   - Save or create new diagrams and their corresponding code.
 
 ---
 
