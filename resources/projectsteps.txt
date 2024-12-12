@@ -1,0 +1,30 @@
+https://canvas.calpoly.edu/courses/141780/pages/lecture-21-final-project-part-a?module_item_id=4038757
+
+1. JFrame, click and draw a square with arbitrary name
+2. Clicking on square creates popup where you can change name
+3+4. Allow drag and drop of square
+5. Right click free space to display popup menu of checkboxes
+    5a. observer, observable, singleton, decoration, decoratable,
+        chain member, strategy, factory, product
+        (also our own decorations)
+    5b. Decorate box according to selection (can be several)
+6. Allow connecting of decorations with lines
+7. Allow connecting of boxes like classes
+    7a. Aggregation, composition, association, inheritance,
+        realization
+    7b. make menu bar with File and Box Connector (dropdown)
+    7c. click menu bar option, then click first square, then
+        click second square, connection appears
+8. Another menu bar under the first menu bar, JTabbedPane
+    8a. Draw Area and Code tabs
+9. Tools tab in first menu bar, dropdown with Run button
+    9a. inside the Code tab of second menu bar, create a
+        left panel and ride panel.
+    9b. on the left panel, a "src" directory with all the
+        names of the boxes as "*.java files" inside
+    9c. on the right panel, it creates "code" using any of the
+        decorations (patterns) that were added
+10. File dropdown and Help dropdown in first menu bar
+    10a. File has New..., Open..., Save As..., Save (diagrams
+        AND code should be reloadable)
+    10b. Help has About, which opens popup
